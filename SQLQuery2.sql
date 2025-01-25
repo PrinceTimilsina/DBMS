@@ -11,11 +11,11 @@ country varchar(255)
 insert into
 customers(customer_id,customer_name,contact_name,country)
   values
-  (1,'ABC Company','John Smith','USA'),
-    (2,'ABC pvt.ltd','Nelson Smith','CANADA'),
-	  (3,'A6ptr.it','Franz Becknabaur','USA'),
-	    (4,'10P.itr','Kane William','Sweden'),
-		  (5,'AUS inc.','Steven Smith','Austrialia');
+(1,'ABC Company','John Smith','USA'),
+(2,'ABC pvt.ltd','Nelson Smith','CANADA'),
+(3,'A6ptr.it','Franz Becknabaur','USA'),
+(4,'10P.itr','Kane William','Sweden'),
+(5,'AUS inc.','Steven Smith','Austrialia');
 
 /*3RD Question*/
 Update customers
