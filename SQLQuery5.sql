@@ -53,7 +53,7 @@ create table matches(
 INSERT INTO players VALUES( 1,'Rohit Poudel',23,'Bowler',50,150,75,101);
 INSERT INTO players VALUES(2,'Prince Timilsina',17,'WK-Batsman',19,997,0,101);
 INSERT INTO players VALUES( 3,'Gulshan Jha',23,'Allrounder',39,1550,95,101);
-INSERT INTO players VALUES( 4,'	Sompal Kami',34,'Bowler',40,570,97,101);
+INSERT INTO players VALUES( 4,'Sompal Kami',34,'Bowler',40,570,97,101);
 INSERT INTO players VALUES( 5,'Nandan Yadav',23,'Bowler',5,78,7,101);
 
 ---"B" ANS:
