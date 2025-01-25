@@ -9,4 +9,5 @@ INSERT INTO student VALUES(1,'Prince');
 INSERT INTO student VALUES(2,'Aman');
 
 SELECT *FROM student;
+drop table student;
 
