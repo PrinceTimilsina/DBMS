@@ -10,7 +10,7 @@ country varchar(255)
 /* Second Answer*/
 insert into
 customers(customer_id,customer_name,contact_name,country)
-  values
+  values 
 (1,'ABC Company','John Smith','USA'),
 (2,'ABC pvt.ltd','Nelson Smith','CANADA'),
 (3,'A6ptr.it','Franz Becknabaur','USA'),
