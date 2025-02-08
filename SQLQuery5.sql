@@ -11,7 +11,7 @@
 ---Matches Played: 50
 ---Runs Scored: 150
 ---Wickets Taken: 75
----Team ID: 101
+---Team ID: 101 
 ---b. Retrieve the names and roles of all players who are bowlers.
 ---c. Update the city of the team "Kathmandu Kings" to "Pokhara."
 ---d. Delete all matches from the matches table where both teams scored less than 100.
