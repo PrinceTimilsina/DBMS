@@ -6,7 +6,7 @@
 ---Questions:
 ---a. Insert a new player into the players table with the following details:
 ---Player Name: "Rohit Poudel"
----Age: 23
+---Age: 23   
 ---Role: "Bowler"
 ---Matches Played: 50
 ---Runs Scored: 150
