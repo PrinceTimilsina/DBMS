@@ -44,7 +44,7 @@ TYPES OF RELATION
 /*CONSIDER the following table:
    orders(o_id,o_name,o_qty,o_price,o_date)*/
 
-   /*First Answer*/
+   /*=----First Answer---*/
 
    CREATE TABLE orders(
        o_id INTEGER PRIMARY KEY,
