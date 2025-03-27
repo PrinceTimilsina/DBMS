@@ -6,12 +6,12 @@
 ---Questions:
 ---a. Insert a new player into the players table with the following details:
 ---Player Name: "Rohit Poudel"
----Age: 23
+---Age: 23   
 ---Role: "Bowler"
 ---Matches Played: 50
 ---Runs Scored: 150
 ---Wickets Taken: 75
----Team ID: 101
+---Team ID: 101 
 ---b. Retrieve the names and roles of all players who are bowlers.
 ---c. Update the city of the team "Kathmandu Kings" to "Pokhara."
 ---d. Delete all matches from the matches table where both teams scored less than 100.
@@ -53,7 +53,7 @@ create table matches(
 INSERT INTO players VALUES( 1,'Rohit Poudel',23,'Bowler',50,150,75,101);
 INSERT INTO players VALUES(2,'Prince Timilsina',17,'WK-Batsman',19,997,0,101);
 INSERT INTO players VALUES( 3,'Gulshan Jha',23,'Allrounder',39,1550,95,101);
-INSERT INTO players VALUES( 4,'	Sompal Kami',34,'Bowler',40,570,97,101);
+INSERT INTO players VALUES( 4,'Sompal Kami',34,'Bowler',40,570,97,101);
 INSERT INTO players VALUES( 5,'Nandan Yadav',23,'Bowler',5,78,7,101);
 
 ---"B" ANS:
