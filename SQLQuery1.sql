@@ -8,6 +8,7 @@ select * from student;
 insert into student values(5,'rohash');
 select * from student;
 
+
 create database teacher;
 create table teacher(t_id int primary key,t_name varchar(255));    
 select * from teacher;
