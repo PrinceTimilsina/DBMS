@@ -50,6 +50,7 @@ create table matches(
 );
      
 	 ---'A' ANS: ---- --Inserting values into Players table------here,
+
 INSERT INTO players VALUES( 1,'Rohit Poudel',23,'Bowler',50,150,75,101);
 INSERT INTO players VALUES(2,'Prince Timilsina',17,'WK-Batsman',19,997,0,101);
 INSERT INTO players VALUES( 3,'Gulshan Jha',23,'Allrounder',39,1550,95,101);
