@@ -17,7 +17,7 @@
 ---d. Delete all matches from the matches table where both teams scored less than 100.
 
 create database NPL;
-use NPL;
+use NPL; 
 -----------Here's the Solution:---------
    --------Creating teams table------------
 create table teams
