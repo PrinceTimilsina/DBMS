@@ -88,3 +88,4 @@ DELETE FROM matches
 WHERE team1_score > 100 AND team2_score > 100;
 
 SELECT *FROM matches
+
