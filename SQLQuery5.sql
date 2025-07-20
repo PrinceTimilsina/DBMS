@@ -17,7 +17,7 @@
 ---d. Delete all matches from the matches table where both teams scored less than 100.
 
 create database NPL;
-use NPL;
+use NPL; 
 -----------Here's the Solution:---------
    --------Creating teams table------------
 create table teams
@@ -50,6 +50,7 @@ create table matches(
 );
      
 	 ---'A' ANS: ---- --Inserting values into Players table------here,
+
 INSERT INTO players VALUES( 1,'Rohit Poudel',23,'Bowler',50,150,75,101);
 INSERT INTO players VALUES(2,'Prince Timilsina',17,'WK-Batsman',19,997,0,101);
 INSERT INTO players VALUES( 3,'Gulshan Jha',23,'Allrounder',39,1550,95,101);
@@ -87,3 +88,4 @@ DELETE FROM matches
 WHERE team1_score > 100 AND team2_score > 100;
 
 SELECT *FROM matches
+
