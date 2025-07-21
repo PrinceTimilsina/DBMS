@@ -2,6 +2,7 @@ create database prince;
 create table student(s_id int primary key,s_name varchar(255) );    
 select * from student;
 insert into student values(1,'abhishek');
+
 select * from student;
 insert into student values(2,'rachin'),(3,'rohan'),(4,'arjun');
 select * from student;
