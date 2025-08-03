@@ -1,7 +1,7 @@
 create database prince;
 use prince;
 create table student(
-id INT PRIMARY KEY,
+id INT PRIMARY KEY,  
 nam VARCHAR(50)
 );
 
